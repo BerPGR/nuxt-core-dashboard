@@ -26,7 +26,7 @@
 
       <v-btn color="transparent" elevation="0" min-width="40" height="40">
         <v-badge dot color="#D33864" overlap>
-          <v-icon color="#FDD656">mdi-bell</v-icon>
+          <v-icon color="#FDD656">mdi-bell-outline</v-icon>
         </v-badge>
       </v-btn>
 
